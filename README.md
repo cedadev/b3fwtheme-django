@@ -21,4 +21,4 @@ the boolean variable `CONTAINER_FLUID` in your settings.py
 
 ## Usage
 
-See (user guide)[Userguide.md]
+See [user guide](Userguide.md)
